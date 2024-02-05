@@ -1,8 +1,8 @@
 {
-  "name": "LethalGosling",
-  "version_number": "1.0.1",
-  "website_url": "https://femboy.tv",
-  "description": "COMPATIBLE WITH v45. Adds 6 randomly changing Ryan Gosling posters and paintings",
+  "name": "LethalAugust",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "COMPATIBLE WITH v45. Adds several randomly rotating portraits of our favourite Lost Boy, August.",
   "dependencies": [
     "femboytv-LethalPosters-1.2.0",
     "femboytv-LethalPaintings-1.2.0"
